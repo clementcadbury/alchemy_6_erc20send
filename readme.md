@@ -1,11 +1,13 @@
 steps :
-- git clone https://github.com/clementcadbury/alchemy_6_erc20send.git .
-- npm init -y
-- npm i hardhat
-- npx hardhat
-- npm install --save-dev "hardhat@^2.16.0" "@nomicfoundation/hardhat-toolbox@^3.0.0"
-- npm install @openzeppelin/contracts
-- npm i dotenv
+```
+git clone https://github.com/clementcadbury/alchemy_6_erc20send.git .
+npm init -y
+npm i hardhat
+npx hardhat
+npm install --save-dev "hardhat@^2.16.0" "@nomicfoundation/hardhat-toolbox@^3.0.0"
+npm install @openzeppelin/contracts
+npm i dotenv
+```
 
 Token contract created :
 https://goerli.etherscan.io/tx/0xb859dd8576d1feed01ec576c6d08e289c92e187c3d1a81ed888d41d76f8388b5
